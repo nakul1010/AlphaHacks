@@ -1,4 +1,4 @@
-# AlphaHacks
+# Prassana Private
 ### Website Link : http://prassana.herokuapp.com/
 
 
